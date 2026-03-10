@@ -126,6 +126,15 @@ A full `CONTRIBUTING.md` is coming with Phase 1.
 
 ---
 
+## Support
+
+For questions, feedback, or support requests, reach out to us:
+
+- **connect@instinctbits.com**
+- **support@digitechnomads.com**
+
+---
+
 ## License
 
 ConvergioAI is open-source software licensed under the [MIT License](LICENSE).
